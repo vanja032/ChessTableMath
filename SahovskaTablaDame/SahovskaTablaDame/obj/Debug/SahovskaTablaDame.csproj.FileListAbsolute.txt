@@ -1,0 +1,7 @@
+C:\Users\Vanja Sretenovic\source\repos\SahovskaTablaDame\SahovskaTablaDame\bin\Debug\SahovskaTablaDame.exe.config
+C:\Users\Vanja Sretenovic\source\repos\SahovskaTablaDame\SahovskaTablaDame\bin\Debug\SahovskaTablaDame.exe
+C:\Users\Vanja Sretenovic\source\repos\SahovskaTablaDame\SahovskaTablaDame\bin\Debug\SahovskaTablaDame.pdb
+C:\Users\Vanja Sretenovic\source\repos\SahovskaTablaDame\SahovskaTablaDame\obj\Debug\SahovskaTablaDame.csprojAssemblyReference.cache
+C:\Users\Vanja Sretenovic\source\repos\SahovskaTablaDame\SahovskaTablaDame\obj\Debug\SahovskaTablaDame.csproj.CoreCompileInputs.cache
+C:\Users\Vanja Sretenovic\source\repos\SahovskaTablaDame\SahovskaTablaDame\obj\Debug\SahovskaTablaDame.exe
+C:\Users\Vanja Sretenovic\source\repos\SahovskaTablaDame\SahovskaTablaDame\obj\Debug\SahovskaTablaDame.pdb
